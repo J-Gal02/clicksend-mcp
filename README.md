@@ -136,6 +136,25 @@ The server provides detailed error messages for various scenarios:
 
 Error responses include appropriate error codes and descriptive messages to help diagnose issues.
 
+## TODO
+- [ ] Multiple Recepients
+- [ ] Configure Sender IDs
+- [x] SMS
+- [x] TTS
+- [ ] Email
+- [ ] Media Uploading
+    - [ ] Email Attachments
+    - [ ] MMS
+    - [ ] Letters
+    - [ ] Postcards
+    - [ ] Fax
+- [ ] Cost Calculation and Confirmation
+- [ ] Statistics
+- [ ] History
+- [ ] Contacts
+
+- [ ] Automations
+
 ## License
 
 ISC
