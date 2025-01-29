@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that provides SMS messaging and Text-to-Speech (TTS) call capabilities through ClickSend's API. This server enables AI models to send SMS messages and initiate voice calls programmatically.
 
+<a href="https://glama.ai/mcp/servers/6nj3h62i6b"><img width="380" height="200" src="https://glama.ai/mcp/servers/6nj3h62i6b/badge" alt="ClickSend Server MCP server" /></a>
+
 ## Features
 
 - **SMS Messaging**: Send SMS messages to any phone number worldwide
