@@ -1,4 +1,5 @@
 # ClickSend MCP Server
+[![smithery badge](https://smithery.ai/badge/@J-Gal02/clicksend-mcp)](https://smithery.ai/server/@J-Gal02/clicksend-mcp)
 
 A Model Context Protocol (MCP) server that provides SMS messaging and Text-to-Speech (TTS) call capabilities through ClickSend's API. This server enables AI models to send SMS messages and initiate voice calls programmatically.
 
@@ -13,6 +14,14 @@ A Model Context Protocol (MCP) server that provides SMS messaging and Text-to-Sp
 - **Error Handling**: Detailed error messages and proper error propagation
 
 ## Installation
+
+### Installing via Smithery
+
+To install ClickSend MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@J-Gal02/clicksend-mcp):
+
+```bash
+npx -y @smithery/cli install @J-Gal02/clicksend-mcp --client claude
+```
 
 ### Prerequisites
 
