@@ -157,7 +157,7 @@ Error responses include appropriate error codes and descriptive messages to help
 
 ## License
 
-ISC
+[MIT](./LICENSE)
 
 ## Contributing
 
